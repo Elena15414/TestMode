@@ -1,6 +1,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/xmaem2dy7jltg7e0/branch/main?svg=true)](https://ci.appveyor.com/project/Elena15414/testmode/branch/main)
 
 
+
 Задача №2: тестовый режим
 
 Разработчики интернет-банка, изрядно поворчав, предоставили вам тестовый режим запуска целевого сервиса, в котором открыта программная возможность создания клиентов банка, чтобы вы могли протестировать хотя бы функцию входа.
